@@ -1,0 +1,21 @@
+server {
+    listen 80;
+    listen [::]:80;
+
+    server_name docs.kani.co.tz;
+
+    root /home/aisenyi/kani/docs/.vitepress/dist;
+    index index.html;
+
+    location / {
+        try_files $uri $uri.html $uri/ =404;
+    }
+
+    location ~* \.(css|js|woff|woff2|svg|png|jpg|jpeg|gif|ico)$ {
+        expires 30d;
+        add_header Cache-Control "public, no-transform";
+    }
+
+    access_log /var/log/nginx/docs.kani.co.tz.access.log;
+    error_log /var/log/nginx/docs.kani.co.tz.error.log;
+}
