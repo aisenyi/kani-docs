@@ -10,7 +10,7 @@ Go to **Clearing & Forwarding → Imports**. The list shows each import's ID, BL
 
 ![Imports list](/images/import-walkthrough/imports-list.jpg)
 
-Open an import to see its four tabs: **Details**, **Attachments**, **Expenses** and **Daily Status**. The buttons at the top are **Create Transport Request** (or **View Transport Request** once one exists), **Print**, **Close Import** and **Update Import**.
+Open an import to see its four tabs: **Details**, **Attachments**, **Expenses** and **Daily Status**. The buttons at the top are **Create Transport Request** (or **View Transport Request** once one exists), **Print**, **Close Import** and **Update Import** (or **Reopen Import** once the import is closed).
 
 ## Key Fields
 
@@ -63,9 +63,15 @@ To finish the job, select **Close Import** and confirm in the **Close import** b
 - a transport request has been created for it, and
 - every cargo item is confirmed delivered through a completed [trip](/fleet-management/trips).
 
-Otherwise a message tells you what is missing. Closing can't be undone from the import screen.
+Otherwise a message tells you what is missing.
+
+A closed import is read-only. A banner says *This import is closed. Reopen it to make changes.*, and **Update Import** is replaced by **Reopen Import**.
 
 ![Closed import](/images/import-walkthrough/import-closed.jpg)
+
+To change a closed import, select **Reopen Import** and confirm. The import, its cargo and its expenses become editable again. Close it again when you're done.
+
+![Reopen import confirmation](/images/import-walkthrough/import-reopen-confirm.jpg)
 
 ## Related Pages
 

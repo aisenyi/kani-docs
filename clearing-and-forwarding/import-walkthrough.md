@@ -256,7 +256,7 @@ If something is missing, a message explains what, for example *"Cannot close: No
 
 ![Close blocked until a transport request exists](/images/import-walkthrough/import-close-blocked.jpg)
 
-When the checks pass, the import is marked **Closed**. Closing can't be undone from this screen.
+When the checks pass, the import is marked **Closed** and becomes read-only. If you need to change it later, select **Reopen Import** and confirm. See [Imports](/clearing-and-forwarding/imports#transport-and-closing).
 
 ![Closed import](/images/import-walkthrough/import-closed.jpg)
 
