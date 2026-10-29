@@ -19,7 +19,7 @@ Registering creates a new company (tenant) with you as the first administrator.
 
 ## First-time setup
 
-New tenants go through an initial setup step to configure the company profile before the rest of the app becomes available. Your Kani administrator handles this — see [Company Settings](/administration/company-settings) for what's configured there.
+New tenants go through an initial setup step to configure the company profile before the rest of the app becomes available. Your Kani administrator handles this - see [Company Settings](/administration/company-settings) for what's configured there.
 
 ## Signing out
 

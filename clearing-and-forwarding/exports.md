@@ -1,6 +1,6 @@
 # Exports
 
-Manage export clearance jobs — shipments leaving the country that your team is handling documentation and customs clearance for.
+Manage export clearance jobs - shipments leaving the country that your team is handling documentation and customs clearance for.
 
 ::: info Page in progress
 Add step-by-step instructions for creating an export file, key fields, attachments, and how the file moves through its lifecycle.

@@ -31,6 +31,7 @@ export default defineConfig({
 			{
 				text: 'Clearing & Forwarding',
 				items: [
+					{ text: 'Walkthrough: Containerised Import', link: '/clearing-and-forwarding/import-walkthrough' },
 					{ text: 'Logistics Files', link: '/clearing-and-forwarding/logistics-files' },
 					{ text: 'Imports', link: '/clearing-and-forwarding/imports' },
 					{ text: 'Exports', link: '/clearing-and-forwarding/exports' },
@@ -42,6 +43,7 @@ export default defineConfig({
 			{
 				text: 'Fleet Management',
 				items: [
+					{ text: 'Walkthrough: Transit Transport', link: '/fleet-management/transport-walkthrough' },
 					{ text: 'Transport Requests', link: '/fleet-management/transport-requests' },
 					{ text: 'Trips', link: '/fleet-management/trips' },
 					{ text: 'Vehicles & Trailers', link: '/fleet-management/vehicles-and-trailers' },

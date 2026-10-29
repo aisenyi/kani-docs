@@ -12,7 +12,7 @@ Add step-by-step instructions for creating a sales invoice, line items, tax hand
 
 ## QuickBooks Sync
 
-Sales invoices can sync to QuickBooks Online automatically — see [QuickBooks Online](/integrations/quickbooks).
+Sales invoices can sync to QuickBooks Online automatically - see [QuickBooks Online](/integrations/quickbooks).
 
 ## Related Pages
 

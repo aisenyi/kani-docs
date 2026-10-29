@@ -1,6 +1,6 @@
 # Freight Forwarding
 
-Manage freight forwarding jobs — arranging transport of cargo on behalf of a customer, separate from customs clearance work.
+Manage freight forwarding jobs - arranging transport of cargo on behalf of a customer, separate from customs clearance work.
 
 ::: info Page in progress
 Add step-by-step instructions for creating a freight forwarding file, key fields, and how it differs from an import/export file.

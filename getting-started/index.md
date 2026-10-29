@@ -6,14 +6,14 @@ This site covers how to use the app day-to-day. If you're looking for pricing or
 
 ## What's in these docs
 
-- **[Getting Started](/getting-started/logging-in)** — logging in, the dashboard, and how roles and permissions work
-- **[Clearing & Forwarding](/clearing-and-forwarding/logistics-files)** — logistics files, imports, exports, freight forwarding, bonds, and containers
-- **[Fleet Management](/fleet-management/transport-requests)** — transport requests, trips, vehicles, trailers, and fuel
-- **[Expenses & Payments](/expenses-and-payments/expense-approvals)** — expense approvals and payments
-- **[Sales](/sales/quotations)** — quotations, sales invoices, and customers
-- **[Reports](/reports/)** — operational and financial reporting
-- **[Administration](/administration/users)** — managing users, roles, and company settings
-- **[Integrations](/integrations/quickbooks)** — connecting QuickBooks Online
+- **[Getting Started](/getting-started/logging-in)** - logging in, the dashboard, and how roles and permissions work
+- **[Clearing & Forwarding](/clearing-and-forwarding/logistics-files)** - logistics files, imports, exports, freight forwarding, bonds, and containers
+- **[Fleet Management](/fleet-management/transport-requests)** - transport requests, trips, vehicles, trailers, and fuel
+- **[Expenses & Payments](/expenses-and-payments/expense-approvals)** - expense approvals and payments
+- **[Sales](/sales/quotations)** - quotations, sales invoices, and customers
+- **[Reports](/reports/)** - operational and financial reporting
+- **[Administration](/administration/users)** - managing users, roles, and company settings
+- **[Integrations](/integrations/quickbooks)** - connecting QuickBooks Online
 
 ## Need help?
 

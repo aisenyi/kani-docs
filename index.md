@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Kani Docs
   text: Documentation for the Kani platform
-  tagline: Guides for booking shipments, managing your fleet, and running invoicing — all in one place.
+  tagline: Guides for booking shipments, managing your fleet, and running invoicing - all in one place.
   actions:
     - theme: brand
       text: Get Started
