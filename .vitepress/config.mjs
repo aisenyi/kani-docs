@@ -51,6 +51,15 @@ export default defineConfig({
 				]
 			},
 			{
+				text: 'Workshop',
+				items: [
+					{ text: 'Walkthrough: Service and Tyres', link: '/workshop/workshop-walkthrough' },
+					{ text: 'Service Jobs', link: '/workshop/service-jobs' },
+					{ text: 'Tyres & Tyre Board', link: '/workshop/tyres' },
+					{ text: 'Service Reminders', link: '/workshop/service-reminders' }
+				]
+			},
+			{
 				text: 'Expenses & Payments',
 				items: [
 					{ text: 'Expense Approvals', link: '/expenses-and-payments/expense-approvals' },

@@ -101,3 +101,4 @@ Approvers compare each fuel request against the estimate. If the rates are blank
 - [Walkthrough: Transit Transport](/fleet-management/transport-walkthrough)
 - [Transport Requests](/fleet-management/transport-requests)
 - [Fuel Approvals & Dispensions](/fleet-management/fuel)
+- [Tyres & Tyre Board](/workshop/tyres)
