@@ -69,6 +69,7 @@ export default defineConfig({
 			{
 				text: 'Sales',
 				items: [
+					{ text: 'Walkthrough: Quotation to Paid Invoice', link: '/sales/invoicing-walkthrough' },
 					{ text: 'Quotations', link: '/sales/quotations' },
 					{ text: 'Sales Invoices', link: '/sales/sales-invoices' },
 					{ text: 'Customers', link: '/sales/customers' }

@@ -30,7 +30,7 @@ Go to **Sales → Quotations**. The list shows each quotation's ID, customer, da
 | **Approved** | Accepted by the customer. Locked for editing. |
 | **Rejected** | Declined. |
 
-To change the status, open a draft quotation and use **Actions → Approve**, **Reject** or **Delete**.
+To change the status, open a draft quotation and use **Actions → Approve**, **Reject** or **Delete**. Approving asks you to confirm first, because an approved quotation can't be edited.
 
 ![Quotation Actions menu](/images/import-walkthrough/quotation-actions.jpg)
 
@@ -39,7 +39,9 @@ To change the status, open a draft quotation and use **Actions → Approve**, **
 An approved quotation shows two buttons:
 
 - **Create Logistics File** opens a new logistics file with the customer and quotation already filled in. See [Logistics Files](/clearing-and-forwarding/logistics-files).
-- **Create Invoice** creates a sales invoice from the quotation's lines. See [Sales Invoices](/sales/sales-invoices).
+- **Create Invoice** creates a sales invoice from the quotation's lines and taxes. One quotation can be used for several logistics files, so choose the invoice's logistics file yourself. See [Sales Invoices](/sales/sales-invoices).
+
+To link an approved quotation to a job that already exists, open the logistics file, pick the quotation in **Quotation** and select **Save Changes**.
 
 Use **Print** to download or print the quotation for the customer.
 
@@ -49,4 +51,5 @@ Use **Print** to download or print the quotation for the customer.
 
 - [Customers](/sales/customers)
 - [Sales Invoices](/sales/sales-invoices)
+- [Walkthrough: Quotation to Paid Invoice](/sales/invoicing-walkthrough)
 - [Walkthrough: Containerised Import](/clearing-and-forwarding/import-walkthrough)
