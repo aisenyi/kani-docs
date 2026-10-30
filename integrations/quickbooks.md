@@ -2,10 +2,6 @@
 
 Connect Kani LMS to QuickBooks Online to sync sales invoices, suppliers, expenses and payments with your QuickBooks company.
 
-::: info Page in progress
-Step-by-step instructions for the connect flow, sync timing and reading the sync logs still need adding.
-:::
-
 ## Connecting QuickBooks
 
 1. Go to **Integrations → QuickBooks**. The **Accounting Integration** page shows QuickBooks Online as **Not connected**.

@@ -13,8 +13,6 @@ npm run preview   # serve the built output locally
 
 Content is plain Markdown under topic folders (`getting-started/`, `clearing-and-forwarding/`, `fleet-management/`, etc.). Navigation and sidebar structure are defined in `.vitepress/config.mjs`.
 
-Pages marked with an `::: info Page in progress :::` box are stubs - fill in the real steps/screenshots and remove the box.
-
 ## Deploying to docs.kani.co.tz
 
 This follows the same pattern as `website/kani.co.tz` - a static build served directly by nginx on the VPS.

@@ -2,10 +2,6 @@
 
 A freight forwarding job coordinates a shipment for a customer from start to delivery, by sea, air, road, rail or multimodal. From the job you can create the related import, export or transport request, so clearing and transport stay linked to the shipment.
 
-::: info Page in progress
-Step-by-step instructions for creating and running a freight forwarding job still need adding.
-:::
-
 ## Overview
 
 Go to **Clearing & Forwarding → Freight Forwarding**. Each job shows its FF number, logistics file, customer, **Mode**, **Direction**, ETD/ETA, route and status. Jobs are created from a logistics file with the service **Freight Forwarding - Local** or **Freight Forwarding - Transit**.

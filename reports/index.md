@@ -2,10 +2,6 @@
 
 Go to **Admin and Reports → Reports**. Reports are grouped into four sections.
 
-::: info Page in progress
-Instructions for filtering and exporting each report still need adding.
-:::
-
 ## Daily Customer Reports
 
 Currently active files, for sending customers a daily update:

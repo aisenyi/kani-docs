@@ -17,10 +17,6 @@ Go to **Administration → Users**. The list shows each user's name, email or ph
 5. Under **Role & Permissions**, pick a **Role**, or choose **Custom permissions** and tick the individual permissions this user needs.
 6. Save the user.
 
-::: info Page in progress
-Steps for editing and deactivating a user still need adding.
-:::
-
 ## Assigning a Role
 
 See [Roles & Permissions](/administration/roles-and-permissions) for the built-in roles and how the permission matrix works.
