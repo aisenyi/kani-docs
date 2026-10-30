@@ -2,24 +2,26 @@
 
 ## Signing in
 
-Go to your company's Kani URL (for example `https://app.kani.co.tz`) and sign in with your **email or username** and **password**.
+Go to your company's Kani LMS address (for example `https://app.kani.co.tz`) and sign in with your **Email or Phone Number** and **Password**.
 
-- Check **Remember Me** to stay signed in on that device for longer.
-- Forgotten your password? Select **Forgot Password?** on the login screen and enter your email address to receive a reset link.
+- Tick **Remember me** to stay signed in on that device for longer.
+- Forgotten your password? Use the reset option on the login screen and enter your **Email Address** to receive a reset link.
 
-## Registering a new company
+Your account must be set up with an email address, a phone number, or both. Either one can be used to sign in.
 
-If your company hasn't been set up on Kani yet, use the **Register** option on the login screen. You'll need:
+## Registering a new business
 
-- Company name, email, and phone number
-- Your first name, last name, username, and email
+If your company isn't on Kani LMS yet, use the register option on the login screen. You'll need:
+
+- **Business Details**: your company or business name, company email and company phone number
+- **Administrator Account**: your first name, last name, email address and, optionally, your phone number
 - A password (minimum 6 characters)
 
-Registering creates a new company (tenant) with you as the first administrator.
+Select **Register Business**. This creates your company with you as its first administrator. Kani LMS sends a verification link to your email address. If it doesn't arrive, use **Resend verification email**.
 
 ## First-time setup
 
-New tenants go through an initial setup step to configure the company profile before the rest of the app becomes available. Your Kani administrator handles this - see [Company Settings](/administration/company-settings) for what's configured there.
+A new company goes through a setup step to fill in its company profile before the rest of the app is available. The person who registered the business completes it. See [Company Settings](/administration/company-settings) for what's configured there.
 
 ## Signing out
 

@@ -1,6 +1,6 @@
-# Kani Docs
+# Kani LMS Docs
 
-User documentation site, built with [VitePress](https://vitepress.dev). Deployed as a static site at `docs.kani.co.tz`.
+User documentation site for Kani LMS, built with [VitePress](https://vitepress.dev). Deployed as a static site at `docs.kani.co.tz`.
 
 ## Local development
 
@@ -22,7 +22,7 @@ This follows the same pattern as `website/kani.co.tz` - a static build served di
 1. **DNS** - add an `A` record for `docs.kani.co.tz` pointing at the same server IP as `kani.co.tz`.
 2. **Build** - on the server (or in CI), run `npm ci && npm run build`. This produces `.vitepress/dist`.
 3. **nginx** - copy `docs.kani.co.tz` (the server block file in this folder) into `/etc/nginx/sites-available/`, symlink it into `sites-enabled/`, then `nginx -t && systemctl reload nginx`.
-4. **SSL** - run `certbot --nginx -d docs.kani.co.tz` to provision a certificate (matches however `kani.co.tz` and `devapp.kani.co.tz` are already secured).
+4. **SSL** - run `certbot --nginx -d docs.kani.co.tz` to provision a certificate (matches however `kani.co.tz` and `app.kani.co.tz` are already secured).
 5. **Redeploy on content changes** - re-run `npm run build` and reload nginx (no restart needed, it just serves static files). A simple option is a small deploy script or a CI job that SSHes in, pulls, and rebuilds; wire that up when you're ready.
 
 ## Editing content

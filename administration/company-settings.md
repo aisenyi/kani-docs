@@ -1,9 +1,20 @@
 # Company Settings
 
-Company-wide configuration: company details, exchange rates, expense types, suppliers, employees, ports, discharge terminals, payment methods, tax types, items, and print formats.
+Everything the app runs on is set up under **Administration**. The page groups the settings and lists like this:
+
+| Group | What's there |
+|---|---|
+| **Clearing and Forwarding** | Ports, Discharge Terminals, ICDs, Shipping Lines |
+| **Parties** | Shippers / Exporters, Consignees, Notify Parties |
+| **Sales** | Items, Tax Types, Units of Measure, Suppliers |
+| **Fleet** | Vehicles, Trailers, IT Drivers (In-Transit Drivers). See [Vehicles & Trailers](/fleet-management/vehicles-and-trailers). |
+| **Workshop** | Service Tasks, Spare Parts. See [Service Jobs](/workshop/service-jobs#workshop-lists). |
+| **Expenses and Payments** | Expense Types, Payment Methods, Exchange Rates, Expense Approval Defaults |
+| **System** | Users, Roles, Employees |
+| **Settings** | Company Details, Print Formats, Report Emails, Notifications |
 
 ::: info Page in progress
-Add step-by-step instructions for each settings area, or split into separate pages if they grow.
+Step-by-step instructions for each settings area still need adding.
 :::
 
 ## Company Details
@@ -12,6 +23,7 @@ Add step-by-step instructions for each settings area, or split into separate pag
 
 ## Print Formats
 
-## Other Reference Data
+## Related Pages
 
-Suppliers, employees, ports, discharge terminals, payment methods, tax types, and items are all managed under Administration as reference data used elsewhere in the app.
+- [Users](/administration/users)
+- [Roles & Permissions](/administration/roles-and-permissions)

@@ -74,7 +74,7 @@ To bill a customer for extra charges after an invoice, select **New Debit Note**
 
 ## QuickBooks Sync
 
-Sales invoices can sync to QuickBooks Online automatically. See [QuickBooks Online](/integrations/quickbooks).
+When your company is connected to QuickBooks Online, sales invoices sync to QuickBooks. See [QuickBooks Online](/integrations/quickbooks).
 
 ## Related Pages
 

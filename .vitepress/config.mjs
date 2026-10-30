@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-	title: 'Kani Docs',
-	description: 'User documentation for the Kani logistics management platform',
+	title: 'Kani LMS Docs',
+	description: 'User documentation for Kani LMS (Kani Logistics Management Solution)',
 	lang: 'en-US',
 	cleanUrls: true,
 	lastUpdated: true,
@@ -15,7 +15,8 @@ export default defineConfig({
 		nav: [
 			{ text: 'Home', link: '/' },
 			{ text: 'Getting Started', link: '/getting-started/' },
-			{ text: 'Open App', link: 'https://devapp.kani.co.tz' }
+			{ text: 'Open App', link: 'https://app.kani.co.tz' },
+			{ text: 'Website', link: 'https://www.kani.co.tz' }
 		],
 
 		sidebar: [
@@ -98,8 +99,8 @@ export default defineConfig({
 		},
 
 		footer: {
-			message: 'Need help? Contact support from within the app.',
-			copyright: `Copyright © ${new Date().getFullYear()} Kani`
+			message: 'Need help? Contact support from within the app. | <a href="https://www.kani.co.tz">www.kani.co.tz</a>',
+			copyright: `Copyright © ${new Date().getFullYear()} Kani Afritech LTD`
 		}
 	}
 })

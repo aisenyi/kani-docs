@@ -1,6 +1,6 @@
 # Logistics Files
 
-A **Logistics File** is the umbrella record for a job. You choose the service when you create it, and Kani LMS automatically creates the linked import or export. The logistics file then brings together everything about the job: the quotation, expenses, trips and sales invoices, plus a running profit/loss.
+A **Logistics File** is the umbrella record for a job. You choose the service when you create it, and Kani LMS automatically creates the linked import, export, transport request or freight forwarding job. The logistics file then brings together everything about the job: the quotation, expenses, trips and sales invoices, plus a running profit/loss.
 
 ## Overview
 
@@ -13,7 +13,7 @@ Go to **Logistics Files**. The list shows every file across all services, with i
 - **Import - Local** / **Import - Transit**: creates a linked import
 - **Export - Local** / **Export - Transit**: creates a linked export
 - **Transport - Local** / **Transport - Transit**: creates a linked [transport request](/fleet-management/transport-requests#standalone-transport-requests) and opens it
-- **Freight Forwarding - Local** / **Freight Forwarding - Transit**
+- **Freight Forwarding - Local** / **Freight Forwarding - Transit**: creates a linked [freight forwarding job](/clearing-and-forwarding/freight-forwarding)
 
 *Local* is for cargo that stays in the country. *Transit* is for cargo passing through to a neighbouring country.
 
