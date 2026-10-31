@@ -7,6 +7,12 @@ server {
     root /home/aisenyi/kani/docs/.vitepress/dist;
     index index.html;
 
+    error_page 404 /404.html;
+
+    location = /404.html {
+        internal;
+    }
+
     location / {
         try_files $uri $uri.html $uri/ =404;
     }
