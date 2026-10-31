@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: Kani LMS Docs
-  text: Documentation for Kani Logistics Management Solution
+  name: Kani LMS User Guides
+  text: User Guides for Kani Logistics Management Solution
   tagline: Guides for running clearing and forwarding jobs, transport and your fleet, the workshop, expenses and invoicing, all in one place.
   actions:
     - theme: brand

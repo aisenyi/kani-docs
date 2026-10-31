@@ -14,3 +14,20 @@
 	--vp-c-brand-2: #3b82f6;
 	--vp-c-brand-3: #2563eb;
 }
+
+/* Keep the home hero subtitle on a single line on wide screens */
+.VPHero .heading .text {
+	max-width: none;
+	font-size: 28px;
+	line-height: 40px;
+}
+
+@media (min-width: 960px) {
+	.VPHero .main {
+		width: 100%;
+	}
+
+	.VPHero .heading .text {
+		white-space: nowrap;
+	}
+}
