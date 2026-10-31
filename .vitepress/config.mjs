@@ -30,8 +30,7 @@ export default defineConfig({
 				items: [
 					{ text: 'Introduction', link: '/getting-started/' },
 					{ text: 'Logging In', link: '/getting-started/logging-in' },
-					{ text: 'Dashboard Overview', link: '/getting-started/dashboard' },
-					{ text: 'Roles & Permissions', link: '/getting-started/roles-and-permissions' }
+					{ text: 'Dashboard Overview', link: '/getting-started/dashboard' }
 				]
 			},
 			{

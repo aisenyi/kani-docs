@@ -23,4 +23,4 @@ See [Roles & Permissions](/administration/roles-and-permissions) for the built-i
 
 ## Related Pages
 
-- [Roles & Permissions](/getting-started/roles-and-permissions)
+- [Roles & Permissions](/administration/roles-and-permissions)

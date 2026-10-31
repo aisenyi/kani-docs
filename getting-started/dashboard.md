@@ -28,7 +28,7 @@ Revenue, expenses, net profit and margin also show the change against the previo
 
 ## Layout
 
-- **Sidebar (left)**: navigation grouped as Main (Dashboard, Logistics Files), Clearing and Forwarding, Fleet Management, Workshop, Expenses and Payments, Sales, Admin and Reports, and Integrations. You'll only see the items you have permission to access. See [Roles & Permissions](/getting-started/roles-and-permissions).
+- **Sidebar (left)**: navigation grouped as Main (Dashboard, Logistics Files), Clearing and Forwarding, Fleet Management, Workshop, Expenses and Payments, Sales, Admin and Reports, and Integrations. You'll only see the items you have permission to access. See [Roles & Permissions](/administration/roles-and-permissions).
 - **Top bar**: the sidebar toggle on the left, and on the right a **?** link to these docs, the light/dark theme toggle, notifications, and your profile menu.
 - **Main content**: the page you've selected in the sidebar.
 

@@ -6,14 +6,14 @@ This site covers how to use the app day-to-day. If you're looking for pricing or
 
 ## What's in these docs
 
-- **[Getting Started](/getting-started/logging-in)** - logging in, the dashboard, and how roles and permissions work
+- **[Getting Started](/getting-started/logging-in)** - logging in and the dashboard
 - **[Clearing & Forwarding](/clearing-and-forwarding/logistics-files)** - logistics files, imports, exports, freight forwarding, bonds, and containers
 - **[Fleet Management](/fleet-management/transport-requests)** - transport requests, trips, vehicles, trailers, and fuel
 - **[Workshop](/workshop/workshop-walkthrough)** - service jobs, tyres and the Tyre Board, and service reminders
 - **[Expenses & Payments](/expenses-and-payments/expense-approvals)** - expense approvals and payments
 - **[Sales](/sales/quotations)** - quotations, sales invoices, and customers
 - **[Reports](/reports/)** - daily customer, operational, finance and workshop reports
-- **[Administration](/administration/users)** - users, roles, and the lists and settings the app uses
+- **[Administration](/administration/users)** - users, roles and permissions, and the lists and settings the app uses
 - **[Integrations](/integrations/quickbooks)** - connecting QuickBooks Online
 
 ## Walkthroughs
