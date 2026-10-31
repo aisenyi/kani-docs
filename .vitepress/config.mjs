@@ -9,7 +9,9 @@ export default defineConfig({
 
 	head: [
 		['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg?v=3' }],
-		['link', { rel: 'alternate icon', href: '/favicon.ico?v=3' }]
+		['link', { rel: 'alternate icon', href: '/favicon.ico?v=3' }],
+		['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-S47C4E2P59' }],
+		['script', {}, "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-S47C4E2P59');"]
 	],
 
 	themeConfig: {
