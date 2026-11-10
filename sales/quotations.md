@@ -47,6 +47,10 @@ Use **Print** to download or print the quotation for the customer.
 
 ![Approved quotation](/images/import-walkthrough/quotation-approved.jpg)
 
+## QuickBooks Sync
+
+When your company is connected to QuickBooks Online, a quotation is sent to QuickBooks as an estimate when it's approved, and the **Synced with QuickBooks** box is ticked. Every tax on the quotation must be linked to a QuickBooks tax code first, or approval is blocked. See [QuickBooks Online](/integrations/quickbooks#before-you-approve-invoices-link-your-tax-types).
+
 ## Related Pages
 
 - [Customers](/sales/customers)

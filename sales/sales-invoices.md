@@ -74,7 +74,9 @@ To bill a customer for extra charges after an invoice, select **New Debit Note**
 
 ## QuickBooks Sync
 
-When your company is connected to QuickBooks Online, sales invoices sync to QuickBooks. See [QuickBooks Online](/integrations/quickbooks).
+When your company is connected to QuickBooks Online, an invoice is sent to QuickBooks when it's approved, and the **Synced with QuickBooks** box is ticked. Customer payments you record are sent too.
+
+Every tax on the invoice must be linked to a QuickBooks tax code first, or approval is blocked. See [QuickBooks Online](/integrations/quickbooks#before-you-approve-invoices-link-your-tax-types).
 
 ## Related Pages
 
