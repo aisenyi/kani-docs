@@ -7,6 +7,8 @@ description: "Record repairs on a vehicle or trailer, in-house or at an outside 
 
 A service job records workshop work on a vehicle or trailer, done in-house or at an outside garage: what was wrong, who worked on it, the tasks, parts and tyres, the cost, and how long the vehicle was off the road.
 
+For a full worked example, see [Walkthrough: Service and Tyres](/workshop/workshop-walkthrough).
+
 ## Overview
 
 Go to **Workshop → Service Jobs**. The list shows each job with its vehicle, type of work, who did it, the reported date, total cost and status. Filter by status (**Not finished**, **Open**, **In progress**, **Completed**, **Cancelled**) or type of work, and sort by reported, started, completed, created or modified date.

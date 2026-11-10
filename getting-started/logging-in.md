@@ -7,7 +7,7 @@ description: "Sign in to Kani LMS with your email or phone number, register a ne
 
 ## Signing in
 
-Go to your company's Kani LMS address (for example `https://app.kani.co.tz`) and sign in with your **Email or Phone Number** and **Password**.
+Go to your company's Kani LMS address (for example `https://app.kani.co.tz`) and sign in with your **Email or Phone Number** and **Password**. You land on the [Dashboard](/getting-started/dashboard).
 
 - Tick **Remember me** to stay signed in on that device for longer.
 - Forgotten your password? Use the reset option on the login screen and enter your **Email Address** to receive a reset link.

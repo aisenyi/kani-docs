@@ -5,11 +5,11 @@ description: "Coordinate a shipment by sea, air, road, rail or multimodal, track
 
 # Freight Forwarding
 
-A freight forwarding job coordinates a shipment for a customer from start to delivery, by sea, air, road, rail or multimodal. From the job you can create the related import, export or transport request, so clearing and transport stay linked to the shipment.
+A freight forwarding job coordinates a shipment for a [customer](/sales/customers) from start to delivery, by sea, air, road, rail or multimodal. From the job you can create the related [import](/clearing-and-forwarding/imports), [export](/clearing-and-forwarding/exports) or [transport request](/fleet-management/transport-requests), so clearing and transport stay linked to the shipment.
 
 ## Overview
 
-Go to **Clearing & Forwarding → Freight Forwarding**. Each job shows its FF number, logistics file, customer, **Mode**, **Direction**, ETD/ETA, route and status. Jobs are created from a logistics file with the service **Freight Forwarding - Local** or **Freight Forwarding - Transit**.
+Go to **Clearing & Forwarding → Freight Forwarding**. Each job shows its FF number, logistics file, customer, **Mode**, **Direction**, ETD/ETA, route and status. Jobs are created from a [logistics file](/clearing-and-forwarding/logistics-files) with the service **Freight Forwarding - Local** or **Freight Forwarding - Transit**.
 
 ## Statuses
 

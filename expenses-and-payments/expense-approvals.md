@@ -5,11 +5,11 @@ description: "Review and approve expenses raised on imports, exports, freight fo
 
 # Expense Approvals
 
-Every expense raised against a job (an import, export, freight forwarding job or trip) goes through two checks before it can be paid: a **review** and then an **approval**.
+Every expense raised against a job (an [import](/clearing-and-forwarding/imports), [export](/clearing-and-forwarding/exports), [freight forwarding job](/clearing-and-forwarding/freight-forwarding) or [trip](/fleet-management/trips)) goes through two checks before it can be paid: a **review** and then an **approval**.
 
 ## Overview
 
-Go to **Expenses & Payments → Expense Approvals**. The cards at the top show how many expenses are **Pending Review** and **Pending Approval**, and the **Total Pending Amount** in TZS. Amounts in other currencies show their approximate TZS value. Use the filter at the top right to switch between **All Pending**, **Pending Review** and **Pending Approval**.
+Go to **Expenses & Payments → Expense Approvals**. The cards at the top show how many expenses are **Pending Review** and **Pending Approval**, and the **Total Pending Amount** in TZS. Amounts in other currencies show their approximate TZS value (see [Exchange Rates](/administration/company-settings#exchange-rates)). Use the filter at the top right to switch between **All Pending**, **Pending Review** and **Pending Approval**.
 
 ![Expense Approvals list](/images/import-walkthrough/expense-approvals-list.jpg)
 

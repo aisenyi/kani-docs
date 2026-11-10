@@ -5,7 +5,9 @@ description: "Run each trip from dispatch to delivery: track fuel and expenses, 
 
 # Trips
 
-A trip is the actual journey of a vehicle carrying cargo for a transport request. It runs from dispatch to delivery, and confirming delivery on the trip is what lets you close the related import.
+A trip is the actual journey of a vehicle carrying cargo for a transport request. It runs from dispatch to delivery, and confirming delivery on the trip is what lets you close the related [import](/clearing-and-forwarding/imports).
+
+For a full worked example, see [Walkthrough: Transit Transport](/fleet-management/transport-walkthrough).
 
 ## Overview
 

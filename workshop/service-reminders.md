@@ -7,6 +7,8 @@ description: "Set service reminders by kilometres or time, whichever comes first
 
 Service reminders tell you when a vehicle or trailer is due for regular work, such as an oil change every 10,000 km or 3 months, whichever comes first. Completing a service job that includes the task moves the reminder forward automatically.
 
+For a full worked example, see [Walkthrough: Service and Tyres](/workshop/workshop-walkthrough).
+
 ## Overview
 
 Go to **Workshop → Service Reminders**. The cards at the top count reminders that are **Overdue**, **Due soon** and **OK**. Select **Show** on a card to list only those. Search by plate or task.

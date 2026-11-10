@@ -7,6 +7,8 @@ description: "Raise transport requests from an import or on their own, and assig
 
 A transport request asks for cargo to be moved by road, either by your own fleet or by a sub-contractor. Each container (or cargo item) on the request is assigned a vehicle and driver, and the move itself is then run as a [trip](/fleet-management/trips).
 
+For a full worked example, see [Walkthrough: Transit Transport](/fleet-management/transport-walkthrough).
+
 ## Raising a Transport Request
 
 There are two ways a transport request is created:
@@ -55,6 +57,8 @@ For cargo that isn't in containers (for example **Loose/Break Bulk**), a **Truck
 2. Enter the **Weight** and **CBM** that truck will carry.
 3. Repeat for each truck. The **Total**, **Assigned** and **Unassigned** rows show what's still without a truck.
 4. Select **Assign Vehicle** on each row.
+
+For a transit import, also enter each load's **Sub T1 Ref** and **Bond Value** on its row. See [Bond Management](/clearing-and-forwarding/bonds#registering-a-bond).
 
 ![Truck Assignments](/images/transport-walkthrough/transport-tr-truck-row.jpg)
 

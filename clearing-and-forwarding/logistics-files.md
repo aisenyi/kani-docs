@@ -5,7 +5,7 @@ description: "Open a logistics file for each job and choose its service. Kani LM
 
 # Logistics Files
 
-A **Logistics File** is the umbrella record for a job. You choose the service when you create it, and Kani LMS automatically creates the linked import, export, transport request or freight forwarding job. The logistics file then brings together everything about the job: the quotation, expenses, trips and sales invoices, plus a running profit/loss.
+A **Logistics File** is the umbrella record for a job. You choose the service when you create it, and Kani LMS automatically creates the linked [import](/clearing-and-forwarding/imports), [export](/clearing-and-forwarding/exports), [transport request](/fleet-management/transport-requests) or [freight forwarding job](/clearing-and-forwarding/freight-forwarding). The logistics file then brings together everything about the job: the [quotation](/sales/quotations), [expenses](/expenses-and-payments/expense-approvals), [trips](/fleet-management/trips) and [sales invoices](/sales/sales-invoices), plus a running profit/loss. The [File Profitability Report](/reports/#performance-finance) shows it across all files.
 
 ## Overview
 

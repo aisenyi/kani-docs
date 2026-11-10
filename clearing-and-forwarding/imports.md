@@ -27,7 +27,7 @@ All fields are on the **Details** tab. Select **Update Import** to save. A **Not
 | **Parties** | Shipper/Exporter, Consignee, Notify Party. Type a name and choose **Add New** to create one. |
 | **Shipping Details** | Shipping Line, Vessel Name, Voyage No |
 | **Ports & Destination** | Port of Loading, Port of Discharge, Cargo Destination Country, Cargo Destination City/Town |
-| **Dates** | Expected Time of Arrival, Actual Time of Arrival, Discharge Date, Storage Start Date (calculated automatically), Carry In Date, Demurrage Start Date |
+| **Dates** | Expected Time of Arrival, Actual Time of Arrival, Discharge Date, Storage Start Date (calculated automatically), Carry In Date, [Demurrage Start Date](/clearing-and-forwarding/containers#setting-the-demurrage-start-date) |
 | **Discharge & ICD** | Discharge Terminal, ICD |
 | **Cargo** | Cargo Category (Vehicles / Containers / Bulk / Loose/Break Bulk), Container Owner, Cargo Description |
 
@@ -37,7 +37,7 @@ All fields are on the **Details** tab. Select **Update Import** to save. A **Not
 
 ### Containers
 
-When **Cargo Category** is **Containers**, an **Import Containers** section appears. Select **Add Container** and enter the **Container Number** (required), **Size**, **Cargo Type**, **Number of Packages** and the gross, net and tare weights. Use the pencil and bin icons to edit or remove a container.
+When **Cargo Category** is **Containers**, an **Import Containers** section appears. Select **Add Container** and enter the **Container Number** (required), **Size**, **Cargo Type**, **Number of Packages** and the gross, net and tare weights. Use the pencil and bin icons to edit or remove a container. Once delivered, the empty containers are tracked until they go back to the shipping line on [Containers Management](/clearing-and-forwarding/containers).
 
 ![Cargo section with containers](/images/import-walkthrough/import-details-cargo-containers.jpg)
 
@@ -62,6 +62,8 @@ On the **Daily Status** tab, type a short update and select **Add**. Each entry 
 ## Transport and closing
 
 When the cargo needs to be delivered, select **Create Transport Request**. The import must first have a **Shipper/Exporter**, **Consignee**, **Notify Party**, **Cargo Destination Country**, **Cargo Destination City/Town** and **Discharge Date**. If any are missing, a **Missing details** box lists them. See [Transport Requests](/fleet-management/transport-requests).
+
+For a transit import, the customs bond for each truck load is entered on the transport request. See [Bond Management](/clearing-and-forwarding/bonds#registering-a-bond).
 
 To finish the job, select **Close Import** and confirm in the **Close import** box. Kani LMS only closes the import when:
 

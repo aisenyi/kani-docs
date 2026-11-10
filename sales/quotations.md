@@ -5,7 +5,9 @@ description: "Create price quotations, track expiry and status, approve them, an
 
 # Quotations
 
-Create price quotations for customers before a job is confirmed. Once a customer accepts, approve the quotation and turn it into a logistics file or a sales invoice in one click.
+Create price quotations for [customers](/sales/customers) before a job is confirmed. Once a customer accepts, approve the quotation and turn it into a logistics file or a sales invoice in one click.
+
+For a full worked example, see [Walkthrough: Quotation to Paid Invoice](/sales/invoicing-walkthrough).
 
 ## Overview
 
@@ -48,7 +50,7 @@ An approved quotation shows two buttons:
 
 To link an approved quotation to a job that already exists, open the logistics file, pick the quotation in **Quotation** and select **Save Changes**.
 
-Use **Print** to download or print the quotation for the customer.
+Use **Print** to download or print the quotation for the customer. The layout comes from your [print formats](/administration/company-settings#print-formats).
 
 ![Approved quotation](/images/import-walkthrough/quotation-approved.jpg)
 

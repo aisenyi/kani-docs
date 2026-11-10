@@ -7,6 +7,8 @@ description: "Track every tyre by serial number: fit, inspect, rotate and remove
 
 Kani LMS tracks every tyre by its serial number, from purchase to scrap. You can see where each tyre is, how far it has run, its tread, and what it costs per kilometre.
 
+For a full worked example, see [Walkthrough: Service and Tyres](/workshop/workshop-walkthrough).
+
 ## Overview
 
 Go to **Workshop → Tyres**. The list shows each tyre's serial, brand and size, status, where it is (vehicle and position), tread, km run, total cost and cost per km. Use the filters at the top for **All**, **Fitted**, **Ready to fit** and **Scrapped**, and filter by brand.

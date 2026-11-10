@@ -5,7 +5,9 @@ description: "Invoice customers for jobs, link invoices to logistics files and t
 
 # Sales Invoices
 
-Invoice customers for their jobs, link each invoice to its logistics file and trips, and record the payments that come in against it.
+Invoice [customers](/sales/customers) for their jobs, link each invoice to its [logistics file](/clearing-and-forwarding/logistics-files) and [trips](/fleet-management/trips), and record the payments that come in against it.
+
+For a full worked example, see [Walkthrough: Quotation to Paid Invoice](/sales/invoicing-walkthrough).
 
 ## Overview
 
@@ -52,7 +54,7 @@ Open a draft invoice and use **Actions**:
 
 ![Draft invoice actions](/images/invoicing-walkthrough/invoice-draft-actions.jpg)
 
-An approved invoice keeps **Actions → Cancel**. Use **Print** to download or print it for the customer.
+An approved invoice keeps **Actions → Cancel**. Use **Print** to download or print it for the customer. The layout comes from your [print formats](/administration/company-settings#print-formats).
 
 ## Recording Payments
 
