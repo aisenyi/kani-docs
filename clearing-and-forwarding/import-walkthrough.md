@@ -1,3 +1,8 @@
+---
+title: "Containerised Import Walkthrough, Start to Finish"
+description: "Follow one 40ft container from Shanghai to Dar es Salaam: quotation, logistics file, expenses, payment, transport, delivery and closing the import."
+---
+
 # Walkthrough: Containerised Import, Start to Finish
 
 This guide follows one real job through Kani LMS, from the first customer record to a **Closed** import. It uses a single 40ft container of ceramic tiles shipped from Shanghai to Dar es Salaam for a local customer.

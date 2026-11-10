@@ -1,3 +1,8 @@
+---
+title: "Pay Approved Expenses and Track Balances"
+description: "Record full or part payments against approved expenses, see the total outstanding in TZS, and follow each expense from Pending Payment to Paid."
+---
+
 # Payments
 
 Record payments against approved expenses and keep track of what is still owed.

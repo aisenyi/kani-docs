@@ -1,3 +1,8 @@
+---
+title: "Service and Tyres Walkthrough, Start to Finish"
+description: "Follow one truck through the workshop: a service reminder falls due, a service job records the work, parts and two new tyres, and the reminder moves on."
+---
+
 # Walkthrough: Service and Tyres, Start to Finish
 
 This guide follows one truck through the Kani LMS workshop. A service reminder falls due, a service job is raised from it, the mechanic records the work, parts and two new tyres, and completing the job moves the reminder forward.

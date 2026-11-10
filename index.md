@@ -1,5 +1,8 @@
 ---
 layout: home
+title: "Kani LMS User Guides: Logistics Software Help"
+titleTemplate: false
+description: "User guides for Kani LMS, software for clearing and forwarding and transport companies: imports, exports, fleet, workshop, expenses and invoicing."
 
 hero:
   name: Kani LMS User Guides

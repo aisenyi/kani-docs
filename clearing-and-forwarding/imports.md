@@ -1,3 +1,8 @@
+---
+title: "Import Clearance Jobs, Local and Transit"
+description: "Run import clearance jobs: create an import from a logistics file, record the BL and containers, attachments, expenses and daily status, then close it."
+---
+
 # Imports
 
 An import is a clearance job for cargo coming into the country. You don't create imports directly. Create a [Logistics File](/clearing-and-forwarding/logistics-files) with an **Import - Local** or **Import - Transit** service, and Kani LMS creates the import for you.

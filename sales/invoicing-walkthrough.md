@@ -1,3 +1,8 @@
+---
+title: "Quotation to Paid Invoice Walkthrough"
+description: "Follow one transport job from price to payment: quote it, invoice from the quotation, record the advance and the balance, and check the file's profit."
+---
+
 # Walkthrough: Quotation to Paid Invoice
 
 This guide follows one job from price to payment. Kilemba Mining's transit transport job (Dar es Salaam to Lusaka) is quoted, the quotation is linked to the job's logistics file, an invoice is raised from the quotation and linked to the trip, and the customer pays in two instalments.

@@ -1,3 +1,8 @@
+---
+title: "Transit Bond Management: Register and Acquit"
+description: "Track customs transit bonds on import cargo: register each bond with its Sub T1 reference, watch open bond value, and acquit bonds once cargo leaves."
+---
+
 # Bond Management
 
 Transit cargo travels under a customs bond until it leaves the country. **Bond Management** lists every transit bond set on an import's cargo (containers, vehicles, bulk and loose truck loads), with its Sub T1 reference, value, truck and driver, so you can see what is still open and acquit bonds once they're cleared.

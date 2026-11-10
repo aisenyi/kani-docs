@@ -1,3 +1,8 @@
+---
+title: "Add Users and Assign Roles"
+description: "Add the people who sign in to your company's Kani LMS, assign each one a role, and filter users by status and role."
+---
+
 # Users
 
 Manage the people who can sign in to your company's Kani LMS.

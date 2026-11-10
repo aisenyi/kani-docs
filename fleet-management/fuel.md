@@ -1,3 +1,8 @@
+---
+title: "Truck Fuel Requests, Approvals & Dispensions"
+description: "Request fuel for each trip leg, review and approve it against the estimate from distance and consumption, then dispense it from a supplier or for cash."
+---
+
 # Fuel Approvals & Dispensions
 
 Fuel for a trip goes through four steps: **request**, **review**, **approval** and **dispension**. Kani LMS estimates how much fuel each leg needs from the trip distance and the vehicle's consumption rates, so reviewers can check every request.

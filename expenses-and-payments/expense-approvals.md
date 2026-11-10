@@ -1,3 +1,8 @@
+---
+title: "Expense Review and Approval"
+description: "Review and approve expenses raised on imports, exports, freight forwarding jobs and trips, with pending totals in TZS before anything is paid."
+---
+
 # Expense Approvals
 
 Every expense raised against a job (an import, export, freight forwarding job or trip) goes through two checks before it can be paid: a **review** and then an **approval**.

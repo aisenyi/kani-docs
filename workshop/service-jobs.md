@@ -1,3 +1,8 @@
+---
+title: "Workshop Service Jobs and Vehicle Repairs"
+description: "Record repairs on a vehicle or trailer, in-house or at an outside garage: tasks, parts, tyres, cost and time off the road, from reported to completed."
+---
+
 # Service Jobs
 
 A service job records workshop work on a vehicle or trailer, done in-house or at an outside garage: what was wrong, who worked on it, the tasks, parts and tyres, the cost, and how long the vehicle was off the road.

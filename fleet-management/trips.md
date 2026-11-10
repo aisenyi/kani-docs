@@ -1,3 +1,8 @@
+---
+title: "Truck Trips, Proof of Delivery and Return Legs"
+description: "Run each trip from dispatch to delivery: track fuel and expenses, upload the signed delivery note to end the leg, and add empty or loaded return legs."
+---
+
 # Trips
 
 A trip is the actual journey of a vehicle carrying cargo for a transport request. It runs from dispatch to delivery, and confirming delivery on the trip is what lets you close the related import.

@@ -1,3 +1,8 @@
+---
+title: "Container Returns and Demurrage Tracking"
+description: "List import containers waiting to go back to the shipping line, set the demurrage start date, and record each return with its interchange receipt."
+---
+
 # Containers Management
 
 Once an import's containers are delivered, the empties have to go back to the shipping line before demurrage starts. **Containers Management** lists every import container waiting to be returned, and records the return date and the shipping line's signed interchange receipt.

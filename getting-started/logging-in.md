@@ -1,3 +1,8 @@
+---
+title: "Log In and Register Your Business"
+description: "Sign in to Kani LMS with your email or phone number, register a new business, complete first-time setup, and sign out."
+---
+
 # Logging In
 
 ## Signing in

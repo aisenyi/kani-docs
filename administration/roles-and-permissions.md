@@ -1,3 +1,8 @@
+---
+title: "Roles and Permissions: Control User Access"
+description: "Create roles, set view, create, edit and delete rights in the permission matrix, and control what each Kani LMS user can see and do."
+---
+
 # Roles & Permissions
 
 Kani LMS uses a permission-based access model. What you see in the sidebar and what actions you can take (view, create, edit, delete) on each page depend on the permissions attached to your account.

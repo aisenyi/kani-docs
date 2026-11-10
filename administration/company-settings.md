@@ -1,3 +1,8 @@
+---
+title: "Company Details, Exchange Rates and Print Formats"
+description: "Set your company details, TIN, VRN and logo, add exchange rates to TZS, and edit print formats for invoices, quotations and trip documents."
+---
+
 # Company Settings
 
 Everything the app runs on is set up under **Administration**. The page groups the settings and lists like this:

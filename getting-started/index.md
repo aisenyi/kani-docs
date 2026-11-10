@@ -1,3 +1,8 @@
+---
+title: "Getting Started: Guides and Walkthroughs"
+description: "What Kani LMS is, how these guides are organised, and where to start, with step-by-step walkthroughs for imports, transport, the workshop and invoicing."
+---
+
 # Introduction
 
 Kani LMS (Kani Logistics Management Solution) is a cloud-based system for clearing and forwarding and transport companies. It keeps each job in one logistics file, from the quotation through clearing or transport to the invoice, and brings expenses, the fleet and the workshop into the same system.

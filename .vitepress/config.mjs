@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
 	title: 'Kani LMS User Guides',
+	titleTemplate: ':title | Kani LMS',
 	description: 'Step-by-step user guides for Kani LMS (Kani Logistics Management Solution): clearing and forwarding, fleet, workshop, expenses and sales.',
 	lang: 'en-US',
 	cleanUrls: true,
@@ -23,7 +24,7 @@ export default defineConfig({
 	transformPageData(pageData) {
 		const path = pageData.relativePath.replace(/(^|\/)index\.md$/, '$1').replace(/\.md$/, '')
 		const url = `https://docs.kani.co.tz/${path}`
-		const title = pageData.relativePath === 'index.md' ? 'Kani LMS User Guides' : `${pageData.title} | Kani LMS User Guides`
+		const title = pageData.frontmatter.titleTemplate === false ? pageData.title : `${pageData.title} | Kani LMS`
 		const description = pageData.frontmatter.description || pageData.description
 
 		pageData.frontmatter.head ??= []

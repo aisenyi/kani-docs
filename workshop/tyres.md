@@ -1,3 +1,8 @@
+---
+title: "Tyre Management and Tyre Board"
+description: "Track every tyre by serial number: fit, inspect, rotate and remove tyres, see tread and cost per km, and view each vehicle's tyres on the Tyre Board."
+---
+
 # Tyres & Tyre Board
 
 Kani LMS tracks every tyre by its serial number, from purchase to scrap. You can see where each tyre is, how far it has run, its tread, and what it costs per kilometre.

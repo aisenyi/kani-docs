@@ -1,3 +1,8 @@
+---
+title: "Dashboard: Business Summary and Charts"
+description: "See how the business is doing this month, this quarter or between your own dates, with summary cards, charts and notifications on the dashboard."
+---
+
 # Dashboard Overview
 
 After you sign in, Kani LMS opens on the **Dashboard**: a summary of how the business is doing over a chosen period.

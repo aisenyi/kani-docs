@@ -1,3 +1,8 @@
+---
+title: "Reports: Daily Customer, Operations and Finance"
+description: "Find reports for daily customer updates, operations, performance and finance, and the workshop, plus the Daily Report Update Tool."
+---
+
 # Reports
 
 Go to **Admin and Reports → Reports**. Reports are grouped into four sections.

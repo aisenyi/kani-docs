@@ -1,3 +1,8 @@
+---
+title: "Transit Transport Walkthrough, Start to Finish"
+description: "Follow one truck from Dar es Salaam to Lusaka and back: add the vehicle, assign it, run the trip, approve and dispense fuel, and complete the return."
+---
+
 # Walkthrough: Transit Transport, Start to Finish
 
 This guide follows one transport job through Kani LMS, from adding a new truck to a **Completed** round trip. A truck carries mining spares from Dar es Salaam to Lusaka, Zambia, then returns empty.

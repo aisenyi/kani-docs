@@ -1,3 +1,8 @@
+---
+title: "Vehicle Service Reminders by Km or Date"
+description: "Set service reminders by kilometres or time, whichever comes first, record odometer readings, and see which vehicles are overdue or due soon."
+---
+
 # Service Reminders
 
 Service reminders tell you when a vehicle or trailer is due for regular work, such as an oil change every 10,000 km or 3 months, whichever comes first. Completing a service job that includes the task moves the reminder forward automatically.

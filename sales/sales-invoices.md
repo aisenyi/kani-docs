@@ -1,3 +1,8 @@
+---
+title: "Sales Invoices, Customer Payments and Debit Notes"
+description: "Invoice customers for jobs, link invoices to logistics files and trips, record customer payments, and raise debit notes for extra charges."
+---
+
 # Sales Invoices
 
 Invoice customers for their jobs, link each invoice to its logistics file and trips, and record the payments that come in against it.

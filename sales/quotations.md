@@ -1,3 +1,8 @@
+---
+title: "Customer Quotations and Approval"
+description: "Create price quotations, track expiry and status, approve them, and turn an approved quotation into a logistics file or sales invoice in one click."
+---
+
 # Quotations
 
 Create price quotations for customers before a job is confirmed. Once a customer accepts, approve the quotation and turn it into a logistics file or a sales invoice in one click.

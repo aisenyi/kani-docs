@@ -1,3 +1,8 @@
+---
+title: "Transport Requests and Vehicle Assignment"
+description: "Raise transport requests from an import or on their own, and assign a vehicle and driver to each container, from your own fleet or a sub-contractor."
+---
+
 # Transport Requests
 
 A transport request asks for cargo to be moved by road, either by your own fleet or by a sub-contractor. Each container (or cargo item) on the request is assigned a vehicle and driver, and the move itself is then run as a [trip](/fleet-management/trips).

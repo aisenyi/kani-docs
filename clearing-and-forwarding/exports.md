@@ -1,3 +1,8 @@
+---
+title: "Export Clearance Jobs, Local and Transit"
+description: "Run export clearance jobs: create an export from a logistics file, record containers, attachments, expenses and daily status, then close the job."
+---
+
 # Exports
 
 An export is a clearance job for cargo leaving the country. You don't create exports directly. Create a [Logistics File](/clearing-and-forwarding/logistics-files) with an **Export - Local** or **Export - Transit** service, and Kani LMS creates the export for you.

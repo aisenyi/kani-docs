@@ -1,3 +1,8 @@
+---
+title: "QuickBooks Online Integration and Sync"
+description: "Connect Kani LMS to QuickBooks Online to sync suppliers, bills, payments, fuel, quotations and invoices, link tax types, and fix common sync errors."
+---
+
 # QuickBooks Online
 
 Connect Kani LMS to QuickBooks Online so your suppliers, bills, payments, quotations and invoices reach your books without typing them in twice.

@@ -1,3 +1,8 @@
+---
+title: "Customers: Add and Manage Customer Records"
+description: "Add and manage the companies and people you quote, invoice and run jobs for, and search or filter customers by status and type."
+---
+
 # Customers
 
 Manage your customer records: the companies and people you quote, invoice and run jobs for. A customer is picked on every quotation, logistics file and sales invoice.

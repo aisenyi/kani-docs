@@ -1,3 +1,8 @@
+---
+title: "Fleet Register: Vehicles, Trailers and Drivers"
+description: "Add trucks, trailers and drivers, set each vehicle's axle layout for tyre positions, and its fuel consumption rates for trip fuel estimates."
+---
+
 # Vehicles & Trailers
 
 Your fleet register: the trucks and trailers that transport requests and trips are assigned to. Each vehicle's **axle layout** sets its tyre positions, and its **fuel consumption** rates drive the fuel estimates on trips.
