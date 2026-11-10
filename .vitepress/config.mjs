@@ -7,7 +7,11 @@ export default defineConfig({
 	cleanUrls: true,
 	lastUpdated: true,
 	srcExclude: ['README.md'],
-	sitemap: { hostname: 'https://docs.kani.co.tz' },
+	sitemap: {
+		hostname: 'https://docs.kani.co.tz',
+		// Old URLs kept only to redirect visitors to the page that replaced them
+		transformItems: (items) => items.filter((item) => !item.url.includes('getting-started/roles-and-permissions')),
+	},
 
 	head: [
 		['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg?v=3' }],
@@ -23,8 +27,10 @@ export default defineConfig({
 		const description = pageData.frontmatter.description || pageData.description
 
 		pageData.frontmatter.head ??= []
+		// A page can set its own canonical (for example a moved page pointing to its replacement)
+		const hasCanonical = pageData.frontmatter.head.some(([tag, attrs]) => tag === 'link' && attrs?.rel === 'canonical')
+		if (!hasCanonical) pageData.frontmatter.head.push(['link', { rel: 'canonical', href: url }])
 		pageData.frontmatter.head.push(
-			['link', { rel: 'canonical', href: url }],
 			['meta', { property: 'og:type', content: 'website' }],
 			['meta', { property: 'og:site_name', content: 'Kani LMS User Guides' }],
 			['meta', { property: 'og:url', content: url }],
